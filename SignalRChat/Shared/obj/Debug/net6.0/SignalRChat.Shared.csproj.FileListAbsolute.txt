@@ -1,0 +1,12 @@
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\bin\Debug\net6.0\SignalRChat.Shared.deps.json
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\bin\Debug\net6.0\SignalRChat.Shared.dll
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\bin\Debug\net6.0\ref\SignalRChat.Shared.dll
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\bin\Debug\net6.0\SignalRChat.Shared.pdb
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\obj\Debug\net6.0\SignalRChat.Shared.csproj.AssemblyReference.cache
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\obj\Debug\net6.0\SignalRChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\obj\Debug\net6.0\SignalRChat.Shared.AssemblyInfoInputs.cache
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\obj\Debug\net6.0\SignalRChat.Shared.AssemblyInfo.cs
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\obj\Debug\net6.0\SignalRChat.Shared.csproj.CoreCompileInputs.cache
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\obj\Debug\net6.0\SignalRChat.Shared.dll
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\obj\Debug\net6.0\ref\SignalRChat.Shared.dll
+D:\SignalRBlazorChat\SignalRChat\SignalRChat\Shared\obj\Debug\net6.0\SignalRChat.Shared.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b4003e0-72da-4fdb-94ee-b444b22b167a": {
+      "ProjectGuid": "3b4003e0-72da-4fdb-94ee-b444b22b167a",
+      "DisplayName": "SignalRChat.Server",
+      "ColorIndex": 0
+    },
+    "87e4c656-e225-4467-bb2a-9ec6799caacb": {
+      "ProjectGuid": "87e4c656-e225-4467-bb2a-9ec6799caacb",
+      "DisplayName": "SignalRChat.Client",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
